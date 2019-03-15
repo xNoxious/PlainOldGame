@@ -1,5 +1,4 @@
 # CGD
-Student: Stefan Petrov Kopanarov 
 Student Number: 160476206
 Module: Computer Games Development 
 University: Newcastle University 2018-2019
