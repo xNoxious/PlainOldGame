@@ -1,8 +1,17 @@
-# CGD
-Student Number: 160476206
-Module: Computer Games Development 
-University: Newcastle University 2018-2019
 
-This is a prototype of the game I am making for my Computer Games Development module at Newcastle University. None of the artistic content belongs to me and has been acquired from Unity's Asset Store. The assets are placed in folders with their respective names as they were displayed in the Asset Store.
+            /)             
+            ((             
+     /\_/\   ))  - Meow!   
+    ( ^.^ )_//             
+    (m) (m)\_)    
 
-Each class has a description at its top describing the classess' purpose and the person/source that implemented it before I modified it for the game's purposes where relevant. 
+#PlainOldGame
+
+This is a game that I made in Unity to showcase my C# and Unity knowledge. None of the assets used in the game are created by me and they have all been taken from the Unity Asset Store.
+
+Note: There is a pretty obvious bug that I have left in on purpose for a few reasons:
+1. To see if you've actually played the game (if you did - you'd definitely know what the bug is)
+2. Remind me that this one bug cost me getting a remarkable degree that I could make everyone jealous with he-he.
+
+I can provide complete source code upon request as well as a version without the bug so you can enjoy the rest of the game upon request.
+Please, pet the cat - it's so cute.
