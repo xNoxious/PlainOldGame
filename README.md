@@ -11,9 +11,7 @@ This is a game that I made in Unity to showcase my C# and Unity knowledge. None 
 #How to run
 Fork the repository and either launch the index page via Firefox or do "chrome.exe --allow-file-access-from-files" to add a flag to Chrome to allow it to access local storage. Otherwise Chrome would complain and won't open the game which is running via WebGL.
 
-Note: There is a pretty obvious bug that I have left in on purpose for a few reasons:
-1. To see if you've actually played the game (if you did - you'd definitely know what the bug is)
-2. Remind me that this one bug cost me getting a remarkable degree that I could make everyone jealous with hue-hue.
+Note: There is a pretty obvious bug that I have left in on purpose - to see if you've actually played the game (if you did - you'd definitely know what the bug is).
 
 I can provide complete source code upon request as well as a version without the bug so you can enjoy the rest of the game upon request.
 Don't forget to pet the cat - it's so cute.
